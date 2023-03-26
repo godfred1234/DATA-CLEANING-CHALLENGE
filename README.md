@@ -3,7 +3,7 @@ Data cleaning using Excel
 
 ## FIFA 21 CLEANING DATA
 
-![Alt text] (relative%20path/to/img.jpg?raw=true "fifa-pic.PNG")
+fifa-pic.PNG
 
 ## OBJECTIVE
 
