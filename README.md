@@ -1,20 +1,29 @@
 # DATA_CLEANING_WITH_EXCEL
 Data cleaning using Excel
 
-FIFA 21 CLEANING DATA
+## FIFA 21 CLEANING DATA
 
-![alt text] (http://github.com/godfred1234/godfred1234/FIFA21-DATA-CLEANING/blob/main/fifa-pic.PNG?raw=true) 
+![Alt text] (relative%20path/to/img.jpg?raw=true "fifa-pic.PNG")
 
-OBJECTIVE
+## OBJECTIVE
+
+
 This documentation seeks to highlight the data cleaning process for this challenge, which was obtained from Kaggle. The data cleaning process was completed using Excel. The purpose of this project was to clean and prepare the dataset for visualization.
-DATA DESCRIPTION
+
+
+## DATA DESCRIPTION
+
 The dataset contains 18,980 rows and 77 columns. The dataset consists of different data types and contains player attributes, their clubs, nationality, how much they are worth and how much they earn.
-DATA CLEANING STEPS
+
+
+## DATA CLEANING STEPS
+
 •	I made a copy of the data first, so I do not lose the original data.
 •	I then changed the ID column from whole number to text, because we would not make any calculations from the ID column.
 •	Used wrap text on the Club column to remove the extra spaces.
 •	Used text to column to obtain the correct spelling of the names from the playerurl column.
 •	Removed special characters from the OVA header.
+
 Below is the dirty and cleaned data:
  
 
@@ -48,8 +57,11 @@ Below is the dirty and cleaned data:
 
  
 
-FINAL CLEANING STEPS
+## FINAL CLEANING STEPS
+
 •	I changed the numbers in the OVA, BOV, PASS and POT column to percentages using the format (%), in the custom option of the format cells.
 •	Filled all blank rows with N/A
-CONCLUSION
+
+
+## CONCLUSION
 This project highlighted the importance of detailed data cleaning to achieve accuracy and reliability of datasets for analysis and visualization. 
