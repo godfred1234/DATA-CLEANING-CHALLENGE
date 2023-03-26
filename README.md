@@ -65,7 +65,8 @@ The dataset contains 18,980 rows and 77 columns. The dataset consists of differe
 
 #### Below is the dirty and cleaned data:
  
-
+![FIFA_DIRTY-pic3](https://user-images.githubusercontent.com/63736558/227778889-aae83daf-97d7-4da7-865b-b70d2617a253.PNG)
+![FIFA_CLEAN-pic3](https://user-images.githubusercontent.com/63736558/227778906-2815bacc-332f-4629-b984-050d0e347869.PNG)
  
 
 ####	Changed unique characters in columns W/F, SM and IR to STAR using the find and replace function.
@@ -75,7 +76,9 @@ The dataset contains 18,980 rows and 77 columns. The dataset consists of differe
 #### Below is the dirty and cleaned data:
  
 
- 
+![FIFA_DIRTY_pic5](https://user-images.githubusercontent.com/63736558/227778934-c06d614e-fb26-4150-af0a-bd3a8239dabc.PNG)
+![FIFA_CLEAN-pic5](https://user-images.githubusercontent.com/63736558/227778959-8376da46-f548-4609-8bd1-514297f0790c.PNG)
+
 
 ## FINAL CLEANING STEPS
 
