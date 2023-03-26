@@ -26,7 +26,8 @@ The dataset contains 18,980 rows and 77 columns. The dataset consists of differe
 
 Below is the dirty and cleaned data:
  
-
+![FIFA_DIRTY-pic1](https://user-images.githubusercontent.com/63736558/227778261-b6a6750f-8c03-4273-9ab3-11b62d7a3dc6.PNG)
+![FIFA_CLEAN - pic1](https://user-images.githubusercontent.com/63736558/227778287-6789f316-f453-4abf-8960-9fa46f2d8c53.PNG)
  
 
 
