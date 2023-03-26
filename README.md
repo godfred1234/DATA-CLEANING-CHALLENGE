@@ -3,7 +3,7 @@ Data cleaning using Excel
 
 ## FIFA 21 CLEANING DATA
 
-fifa-pic.PNG
+![fifa-pic](https://user-images.githubusercontent.com/63736558/227778096-84d43eaf-9f19-422a-8679-4c7930ac9d5c.PNG)
 
 ## OBJECTIVE
 
